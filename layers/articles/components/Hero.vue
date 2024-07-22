@@ -21,7 +21,7 @@ defineProps({
       <div class="content">
         <div class="title">
           <ContentSlot :use="$slots.title" unwrap="p">
-            Hero title
+            Hero title v2
           </ContentSlot>
         </div>
         <div class="description">
